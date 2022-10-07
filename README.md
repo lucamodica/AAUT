@@ -1,2 +1,2 @@
 # AAUT
-Repository contents from the Machine Learning UniTo course
+Repository with contents from the Machine Learning UniTo course
